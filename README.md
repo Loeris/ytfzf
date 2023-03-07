@@ -43,7 +43,6 @@ There is only 1 required dependency. However the rest require some configuration
 
 ## Required dependencies
 
-* [`jq`](https://github.com/stedolan/jq)
 * [`curl`](https://github.com/curl/curl)
 
 ## Recommended dependencies
