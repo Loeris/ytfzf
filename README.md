@@ -39,7 +39,7 @@
 
 # Dependencies
 
-There are only 3 required dependencies.
+There are only 2 required dependencies.
 
 ## Required dependencies
 
