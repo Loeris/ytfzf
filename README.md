@@ -45,6 +45,7 @@ There are only 3 required dependencies.
 
 * [`jq`](https://github.com/stedolan/jq)
 * [`curl`](https://github.com/curl/curl)
+* [`jq`](https://github.com/stedolan/jq)
 
 ## Recommended dependencies
 
