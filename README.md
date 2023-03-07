@@ -39,11 +39,12 @@
 
 # Dependencies
 
-There is only 1 required dependency. However the rest require some configuration before you can replace them.
+There is only 2 required dependencies. However the rest require some configuration before you can replace them.
 
 ## Required dependencies
 
 * [`curl`](https://github.com/curl/curl)
+* [`jq`](https://github.com/stedolan/jq)
 
 ## Recommended dependencies
 
