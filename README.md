@@ -39,7 +39,7 @@
 
 # Dependencies
 
-There are only 2 required dependencies, however the rest require some configuration before you can replace them.
+There are only 2 required dependencies. However the rest require some configuration before you can replace them.
 
 ## Required dependencies
 
